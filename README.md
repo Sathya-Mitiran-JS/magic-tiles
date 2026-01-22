@@ -1,7 +1,5 @@
 Magic Tiles on Urbana board FPGA
 
-ECE 385 Final Project
-
 Dingjia Shen, Sathya Mitiran
 
 
