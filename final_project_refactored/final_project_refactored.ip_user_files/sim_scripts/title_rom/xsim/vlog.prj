@@ -1,0 +1,6 @@
+verilog xil_defaultlib  \
+"../../../../final_project_refactored.gen/sources_1/ip/title_rom/sim/title_rom.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort
